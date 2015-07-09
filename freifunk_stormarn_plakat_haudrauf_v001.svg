@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="freifunk_stormarn_plakat_haudrauf_v001.svg">
+  <title
+     id="title3235">freifunk stormarn plakat</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="349.72706"
+     inkscape:cy="423.59404"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="mm"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="1mm"
+       spacingy="1mm"
+       dotted="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>freifunk stormarn plakat</dc:title>
+        <dc:date>20.08.2014</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Patrick Jäger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CC BY-SA 3.0, freifunk.hamburg.net, Patrick Jäger</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:source>hamburg.freifunk.net</dc:source>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>freifunk hamburg plakat</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-6.1562498e-6)"
+     style="display:inline">
+    <rect
+       style="fill:#ffcc07;fill-opacity:1;stroke:none;display:inline"
+       id="rect4582-9-3"
+       width="744.09448"
+       height="14.173228"
+       x="-0.36221313"
+       y="476.36218" />
+    <g
+       id="g3295"
+       transform="matrix(0.44684127,0,0,0.44684127,0.06901252,35.542756)">
+      <path
+         id="path3245"
+         d="m 669.405,100.28 c 162.329,0 293.923,134.729 293.923,300.93 0,166.197 -131.594,300.93 -293.923,300.93 -162.324,0 -293.918,-134.732 -293.918,-300.93 0,-166.201 131.594,-300.93 293.918,-300.93 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffcc07;stroke-width:35" />
+      <path
+         id="path3247"
+         d="m 226.542,466.859 c 89.204,0 161.52,72.315 161.52,161.52 0,89.208 -72.315,161.522 -161.52,161.522 -89.208,0 -161.523,-72.314 -161.523,-161.522 0,-89.205 72.315,-161.52 161.523,-161.52 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#808081;stroke-width:21" />
+      <path
+         id="path3249"
+         d="m 226.542,412.038 c 115.988,0 210.015,94.027 210.015,210.019 0,115.987 -94.026,210.014 -210.015,210.014 -115.992,0 -210.018,-94.026 -210.018,-210.014 0,-115.992 94.027,-210.019 210.018,-210.019 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#a6a6a6;stroke-width:25" />
+      <circle
+         id="circle3251"
+         r="274.72198"
+         cy="496.26801"
+         cx="1374.14"
+         sodipodi:cx="1374.14"
+         sodipodi:cy="496.26801"
+         sodipodi:rx="274.72198"
+         sodipodi:ry="274.72198"
+         style="fill:none;stroke:#a6a6a6;stroke-width:30" />
+      <path
+         id="path3253"
+         d="m 1062.749,110.981 c 182.395,0 330.246,147.852 330.246,330.238 0,182.41 -147.852,330.27 -330.246,330.27 -182.4,0 -330.264,-147.855 -330.264,-330.27 0,-182.386 147.863,-330.238 330.264,-330.238 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#7a7b7b;stroke-width:25" />
+      <path
+         id="path3255"
+         d="m 668.973,34.089 c 200.57,0 363.163,166.477 363.163,371.833 0,205.359 -162.593,371.836 -363.163,371.836 -200.574,0 -363.167,-166.478 -363.167,-371.836 0,-205.357 162.593,-371.833 363.167,-371.833 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#dd0867;stroke-width:45" />
+      <g
+         id="g3257">
+        <g
+           id="g3259">
+          <g
+             id="g3261">
+            <path
+               id="path3263"
+               d="m 1286.04,688.558 c 6.019,-9.852 1.099,-22.767 2.787,-34.958 3.444,-24.715 6.259,-78.839 2.796,-110.457 -0.276,-2.549 -0.492,-6 -2.796,-8.386 4.573,-3.433 1.233,-6.146 2.796,-12.591 -2.203,-3.85 -8.498,-3.615 -8.386,-9.78 6.95,0.429 9.567,-3.481 8.386,-11.186 3.958,-1.178 8.632,-1.628 12.587,-2.795 0.459,-10.727 2.185,-20.187 1.401,-32.162 3.258,-0.973 8.517,-2.031 8.387,-9.784 -2.837,-4.223 -5.018,8.654 -8.387,4.196 -0.101,-10.987 1.315,-25.415 -2.803,-34.953 -0.041,-4.238 4.909,-3.481 8.39,-4.193 4.514,-7.928 6.474,-47.877 5.599,-61.522 -0.142,-2.131 -2.404,-5.594 -2.796,-8.386 -1.096,-7.741 1.979,-14.379 -4.192,-20.977 4.386,0.664 5.709,-1.745 6.988,-4.189 2.386,-25.114 4.021,-50.981 26.567,-55.931 1.524,-9.848 -0.01,-9.952 -4.197,-15.379 3.869,-1.729 4.965,-6.225 8.391,-8.386 2.124,-24.909 4.622,-49.446 6.992,-74.105 1.342,17.462 4.782,40.042 6.988,58.723 1.354,11.491 0.339,20.045 8.387,25.166 -0.384,2.877 -5.208,1.32 -5.595,4.197 -1.014,4.275 2.414,4.111 1.402,8.386 19.471,6.429 25.82,32.55 25.169,54.533 0.511,4.614 4.126,6.124 6.992,8.386 -3.012,4.629 -4.954,12.863 -5.595,25.17 -0.984,19.039 -2.438,49.226 0,55.927 2.379,6.526 8.686,6.955 12.584,9.784 -4.756,17.484 -3.131,49.64 -1.397,72.707 2.216,2.919 9.784,0.47 12.587,2.796 -1.183,7.708 1.435,11.617 8.387,11.186 -0.799,5.735 -5.279,7.768 -9.784,9.787 2.888,3.362 -0.881,8.453 4.192,11.186 -8.037,29.274 -1.831,66.442 -4.192,96.476 -1.418,18.036 6.812,39.993 4.192,57.332 M 1311.206,456.448 c -1.861,-6.925 -6.598,-2.176 0,0 l 0,0 z m 37.752,-100.669 c -1.752,-0.57 -2.855,-1.804 -2.795,-4.189 -6.229,-1.103 -9.292,0.955 -12.587,2.792 0,16.311 0,32.621 0,48.935 3.819,-1.017 2.817,2.784 5.595,2.799 5.59,-7.275 10.674,-13.485 6.992,-23.776 1.4,-0.003 1.665,1.133 2.795,1.397 0.421,-2.747 -1.882,-2.773 -2.795,-4.193 9.444,-3.272 1.024,-21.473 1.4,-23.772 0,0.782 1.131,1.595 1.395,0.007 z m 11.19,30.761 c 3.324,2.617 3.581,16.008 9.779,19.579 -0.662,-6.608 1.744,-2.609 4.202,-1.398 0,-16.317 0,-32.628 0,-48.938 -2.696,-1.968 -5.634,-3.697 -9.792,-4.197 1.4,5.941 1.376,5.967 -5.592,5.595 4.801,11.259 -2.466,17.7 1.403,29.359 z m -36.359,12.583 c -0.101,1.96 0.313,5.349 1.401,2.795 0,-2.326 0,-4.663 0,-6.992 -1.35,-14.167 4.998,-29.922 -1.401,-40.548 -3.895,16.768 1.177,27.521 0,44.745 z m 58.73,1.401 c 4.505,-1.372 2.684,-10.585 2.79,-18.181 0.132,-8.927 -0.093,-18.081 0,-25.17 -0.289,-1.565 -1.546,-2.176 -2.79,-2.795 0,15.386 0,30.768 0,46.146 z m -8.39,11.189 c 0.376,-1.904 -0.87,-5.457 -1.402,-2.803 -0.376,1.905 0.865,5.461 1.402,2.803 z m -51.739,32.152 c -2.851,-1.808 -2.538,-6.776 -8.382,-5.594 -3.149,1.394 3.022,7.625 -1.401,9.783 0.391,-3.187 -0.335,-5.255 -2.796,-5.591 -0.033,3.295 2.411,4.115 1.397,8.387 3.478,-0.149 4.332,-2.617 6.989,0 -1.692,-4.287 -3.578,-6.832 0,-11.186 0.816,1.256 2.938,7.988 4.193,4.201 z m -1.393,11.185 c -1.069,-3.127 6.452,-4.454 1.394,-6.988 0.033,2.095 -5.188,5.718 -1.394,6.988 z m -1.398,6.992 c 1.401,0 2.791,0 4.193,0 0,-1.397 0,-2.792 0,-4.192 -0.929,0 -1.86,0 -2.792,0 -0.082,1.785 -1.804,1.938 -1.401,4.192 z m -5.591,5.599 c 0.38,-1.904 -0.872,-5.464 -1.401,-2.799 -0.38,1.905 0.861,5.452 1.401,2.799 z m 8.382,5.591 c 2.919,-2.784 0.049,-5.975 -2.791,-6.992 -0.205,3.469 -0.265,6.783 2.791,6.992 z m -15.378,1.397 c 3.615,1.26 6.858,-7.897 1.397,-6.988 0.571,3.369 -2.549,3.037 -1.397,6.988 z m 8.391,11.186 c 2.086,-2.255 -1.204,-7.011 0,-12.579 -6.923,2.06 -8.902,11.9 0,12.579 z"
+               inkscape:connector-curvature="0"
+               style="fill:#333333" />
+          </g>
+        </g>
+        <g
+           id="g3265">
+          <g
+             id="g3267">
+            <path
+               id="path3269"
+               d="m 1538.627,835.411 c -115.701,2.289 -174.544,-8.479 -296.287,-7.473 -95.723,0.798 -208.821,-2.918 -314.015,-2.571 l -381.192,4.36 V 688.469 c 1.953,4.055 8.163,3.846 7.719,10.298 18.16,-12.732 57.229,-4.547 82.368,-10.298 9.162,-50.546 10.82,-120.606 10.299,-172.452 -10.377,-6.776 -31.283,-3.042 -36.035,-15.446 4.234,-13.786 23.254,-12.784 36.035,-18.021 14.282,-37.917 -29.431,-36.527 -41.189,-56.625 10.019,-10.574 28.003,-13.183 46.333,-15.441 4.495,-14.797 -14.432,-6.165 -15.442,-15.446 7.823,0.104 16.94,1.499 15.442,-7.715 0.201,-9.646 -18.223,-0.66 -18.014,-10.298 8.229,-0.347 19.698,2.538 18.014,-7.723 -2.676,-5.908 -18.379,1.222 -20.593,-5.151 8.927,-0.507 19.783,0.913 20.593,-7.723 0.823,-11.114 -17.854,-2.735 -18.014,-12.866 5.848,-1.875 20.078,4.64 18.014,-5.147 5.441,-14.019 -9.684,-7.477 -12.87,-12.874 5.968,0.824 9.881,-0.41 12.87,-2.576 1.905,-8.766 -9.482,-4.242 -10.298,-10.294 16.519,-1.737 12.571,-24.574 5.15,-30.884 17.787,-10.839 2.549,-64.649 15.442,-87.516 3.597,32.747 -3.731,61.316 10.298,90.087 -4.375,2.497 -6.616,7.111 -5.15,15.442 4.264,20.198 3.761,18.964 0,38.61 1.233,8.208 17.118,1.756 20.593,7.723 -6.683,6.542 -18.174,-5.058 -20.593,7.723 -0.906,19.054 20.802,-0.343 25.735,12.866 -5.079,-3.794 -18.732,0.32 -25.735,2.576 -4.03,15.185 21.855,0.458 20.593,12.87 -8.651,0.79 -22.312,-3.429 -20.593,7.727 -1.208,8.927 13.966,1.472 15.438,7.715 -5.412,2.307 -15.36,0.086 -12.866,10.294 13.205,9.102 46.146,-1.528 46.337,20.597 -11.957,12.058 -31.335,16.717 -43.758,28.305 0,7.727 0,15.453 0,23.161 9.284,7.876 29.062,5.251 33.46,18.024 -7.589,9.575 -21.827,12.494 -33.46,18.021 -2.244,21.428 2.146,41.67 2.575,56.624 1.227,42.949 -10.823,75.167 7.72,115.832 52.375,-3.176 6.914,32.389 38.859,10.782 1.707,-36.038 -3.421,-78.925 2.58,-110.681 11.147,0 22.304,0 33.459,0 5.077,-1.781 -0.637,-14.36 5.151,-15.445 44.134,0.771 67.198,-3.712 95.234,0 -0.66,54.142 -0.306,92.7 0,151.866 4.868,4.565 17,1.871 25.74,2.575 4.756,-10.686 4.07,-26.817 10.291,-36.038 1.949,13.496 4.361,26.537 10.298,36.038 40.135,-3.846 69.585,5.01 100.386,-5.147 -3.496,-21.912 -1.771,-50.184 2.575,-61.786 6.505,8.085 2.256,26.926 12.863,30.892 12.985,-6.746 11.729,-27.738 25.74,-33.463 36.132,0.764 78.175,-4.395 100.382,10.294 7.683,-5.195 12.703,-13.041 20.597,-18.021 -3.217,-89.565 2.77,-163.749 18.011,-254.816 8.964,81.123 15.218,164.964 18.018,252.241 18.878,0 37.756,0 56.631,0 7.257,-0.459 3.21,-12.229 12.862,-10.295 7.265,0.466 3.221,12.229 12.87,10.295 36.054,-7.705 53.177,9.713 92.668,5.154 3.719,3.138 3.909,9.813 7.723,12.87 14.585,0 29.173,0 43.761,0 8.104,0.388 1.085,-14.364 12.87,-10.299 2.188,12.397 18.525,10.649 33.455,10.299 -0.249,10.552 -0.5,21.089 2.577,28.309 16.303,0 46.037,1.159 62.342,1.159"
+               inkscape:connector-curvature="0"
+               style="fill:#333333" />
+          </g>
+        </g>
+        <g
+           id="g3271">
+          <path
+             id="path3273"
+             d="m 581.618,657.338 c -76.155,7.936 -152.31,15.855 -228.464,23.731 -85.63,8.849 -171.729,15.703 -256.833,28.812 -8.662,1.335 -102.701,13.683 -95.977,30.75 7.693,19.516 48.853,25.781 65.778,29.762 42.976,10.123 86.945,16.03 130.651,21.946 -30.851,-5.218 -61.622,-11.275 -92.025,-18.647 -5.975,-1.454 -77.437,-19.292 -61.82,-30.791 13.377,-9.84 34.31,-12.199 50.042,-15.315 37.727,-7.461 75.995,-12.322 114.15,-16.929 124.463,-15.031 249.545,-25.229 374.501,-35.182 v -18.137 h -0.003 z"
+             inkscape:connector-curvature="0"
+             style="fill:#333333" />
+          <path
+             id="path3275"
+             d="m 327.748,574.732 c -6.716,32.547 -13.432,65.1 -20.141,97.646 -2.005,9.735 -4.518,21.554 -0.574,30.909 2.166,5.137 5.483,10.012 4.991,15.629 -0.827,9.389 -1.644,18.781 -2.471,28.174 -0.929,10.56 -1.85,21.114 -2.781,31.674 -0.193,2.24 0.399,12.494 -1.602,13.858 -6.784,4.633 -14.35,6.676 -14.35,15.17 0,7.264 1.536,5.475 8.423,5.938 33.904,2.277 67.81,4.551 101.709,6.824 -12.098,-7.589 -24.189,-15.185 -36.284,-22.777 -7.6,-4.767 -27.06,-11.502 -26.669,-21.408 0.642,-16.136 1.834,-32.356 1.834,-48.5 0,-6.496 10.877,-9.746 10.689,-16.001 -0.183,-5.918 -0.257,-11.841 -0.573,-17.741 -1.796,-33.97 -3.72,-67.978 -4.379,-101.98 -0.257,-13.232 2.086,-25.797 3.067,-39.018 1.133,-15.263 2.501,-30.749 2.199,-46.057 -0.224,-11.201 -11.812,-14.749 -18.39,-5.539 -0.001,-0.007 -1.563,57.984 -4.698,73.199 0,0 3.135,-15.215 0,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:#333333" />
+          <path
+             id="path3277"
+             d="m 634.679,651.971 c -94.821,-41.61 -189.624,-83.27 -284.437,-124.903 0,12.177 2.806,10.664 13.545,15.554 15.221,6.937 30.459,13.881 45.685,20.824 40.582,18.491 81.164,36.981 121.738,55.477 13.847,6.31 27.701,12.624 41.551,18.935 9.14,4.166 10.652,4.662 8.786,16.563 -2.688,17.142 -5.375,34.283 -8.059,51.424 -2.062,13.15 -1.741,30.188 -8.092,42.1 -5.96,11.183 -4.074,25.11 -4.611,37.611 -0.093,2.099 -2.18,13.981 -0.667,15.509 1.268,1.279 9.448,0.489 11.145,0.578 17.108,0.888 34.212,1.767 51.316,2.653 12.129,0.627 15.26,4.34 15.919,-7.945 0.865,-16.188 1.741,-32.379 2.606,-48.569 0.29,-5.342 0.995,-5.021 -4.433,-5.972 -7.271,-1.271 -14.54,-2.542 -21.808,-3.817 -1.786,-0.309 4.491,-64.697 5.031,-71.912 7.161,1.114 14.32,2.232 21.492,3.351 0.009,-8.455 4.079,-18.728 -6.707,-17.461 l 0,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:#333333" />
+          <path
+             id="path3279"
+             d="m 163.172,714.335 c -1.033,16.317 -2.069,32.64 -3.102,48.961 -0.443,7.044 -0.895,14.089 -1.345,21.137 -0.089,1.514 15.371,3.567 17.708,4.019 2.27,-25.614 4.54,-51.224 6.81,-76.837 -25.025,3.969 -50.045,7.936 -75.07,11.9 -7.623,1.204 -15.796,-0.927 -15.796,7.421 0,12.979 0,25.965 0,38.943 -8.479,-2.397 -14.752,-0.955 -14.752,-10.116 0,-9.59 0,-19.173 0,-28.759"
+             inkscape:connector-curvature="0"
+             style="fill:#333333" />
+          <path
+             id="path3281"
+             d="m 40.907,763.628 c 0,11.271 0,22.542 0,33.81 0,5.605 1.771,7.663 -3.909,7.663 -7.407,0 -14.809,0 -22.211,0 -2.463,0 -8.083,1.573 -8.083,-1.502 0,-5.844 0,-11.685 0,-17.533 0,-12.68 0,-25.364 0,-38.04"
+             inkscape:connector-curvature="0"
+             style="fill:#333333" />
+          <path
+             id="path3283"
+             d="m 18.123,762.79 c 1.685,0.72 9.404,2.903 9.404,4.607 0,1.908 0.791,12.854 -0.697,12.854 -5.33,0 -8.707,2.062 -8.707,-3.682 0,-5.487 0,-10.98 0,-16.464"
+             inkscape:connector-curvature="0"
+             style="fill:#333333" />
+          <path
+             id="path3285"
+             d="m 330.786,541.843 c -42.248,29.546 -84.496,59.099 -126.741,88.645 -27.623,19.318 -55.241,38.641 -82.864,57.958 -12.449,8.711 -25.043,21.417 -40.266,23.918 83.46,-60.202 166.917,-120.408 250.385,-180.61 -0.168,3.358 -0.34,6.723 -0.514,10.089 l 0,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:#333333" />
+        </g>
+      </g>
+      <rect
+         id="rect3287"
+         height="148.717"
+         width="1534.786"
+         y="740.15399"
+         x="6.7030001"
+         style="fill:#333333" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#7a7b7b;stroke-width:3.77906823;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3335"
+       width="372.42889"
+       height="230.07919"
+       x="367.61389"
+       y="368.06274"
+       rx="29.794312" />
+    <g
+       id="g4146"
+       transform="translate(-10.505126,18.18901)">
+      <path
+         transform="matrix(1.4545454,0,0,1.4545454,-233.33881,-238.35074)"
+         d="m 460.62993,432.28345 a 17.716536,17.716536 0 0 1 -17.71654,17.71653 17.716536,17.716536 0 0 1 -17.71653,-17.71653 17.716536,17.716536 0 0 1 17.71653,-17.71654 17.716536,17.716536 0 0 1 17.71654,17.71654 z"
+         sodipodi:ry="17.716536"
+         sodipodi:rx="17.716536"
+         sodipodi:cy="432.28345"
+         sodipodi:cx="442.91339"
+         id="path4105"
+         style="fill:#ffffff;fill-opacity:1;stroke:#dd0867;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4107"
+         y="404.60516"
+         x="401.91882"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         xml:space="preserve"><tspan
+           y="404.60516"
+           x="401.91882"
+           id="tspan4109"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       id="g4151"
+       transform="translate(-35.703136,8.22727)">
+      <path
+         transform="matrix(1.4545454,0,0,1.4545454,-208.1408,-157.52286)"
+         d="m 460.62993,432.28345 a 17.716536,17.716536 0 0 1 -17.71654,17.71653 17.716536,17.716536 0 0 1 -17.71653,-17.71653 17.716536,17.716536 0 0 1 17.71653,-17.71654 17.716536,17.716536 0 0 1 17.71654,17.71654 z"
+         sodipodi:ry="17.716536"
+         sodipodi:rx="17.716536"
+         sodipodi:cy="432.28345"
+         sodipodi:cx="442.91339"
+         id="path4105-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#dd0867;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4107-9"
+         y="485.43304"
+         x="425.19684"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         xml:space="preserve"><tspan
+           y="485.43304"
+           x="425.19684"
+           id="tspan4109-1"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       id="g4156"
+       transform="translate(-81.371266,18.189)">
+      <path
+         transform="matrix(1.4545454,0,0,1.4545454,-162.47267,-96.618452)"
+         d="m 460.62993,432.28345 a 17.716536,17.716536 0 0 1 -17.71654,17.71653 17.716536,17.716536 0 0 1 -17.71653,-17.71653 17.716536,17.716536 0 0 1 17.71653,-17.71654 17.716536,17.716536 0 0 1 17.71654,17.71654 z"
+         sodipodi:ry="17.716536"
+         sodipodi:rx="17.716536"
+         sodipodi:cy="432.28345"
+         sodipodi:cx="442.91339"
+         id="path4105-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:#dd0867;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4107-6"
+         y="545.87744"
+         x="471.00497"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         xml:space="preserve"><tspan
+           y="545.87744"
+           x="471.00497"
+           id="tspan4109-7"
+           sodipodi:role="line">3</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="441.87323"
+       y="405.06754"
+       id="text4180"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4182"
+         x="441.87323"
+         y="405.06754">Verbinde dich mit dem WLAN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="471.5"
+       y="429.51404"
+       id="text4184"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4186"
+         x="471.5"
+         y="429.51404">stormarn.freifunk.net</tspan></text>
+    <g
+       id="g4424"
+       transform="matrix(0.22471507,0,0,0.22471507,442.17323,414.45936)">
+      <path
+         id="path4410"
+         d="M 71.703,48.742 C 66.127,43.211 58.457,39.787 50,39.787 c -8.457,0 -16.127,3.424 -21.703,8.955 -0.059,0.059 -0.118,0.117 -0.176,0.176 l 7.032,7.033 c 0.058,-0.059 0.117,-0.119 0.176,-0.176 3.775,-3.732 8.957,-6.041 14.671,-6.041 5.715,0 10.896,2.309 14.672,6.041 0.059,0.057 0.117,0.117 0.176,0.176 l 7.031,-7.033 C 71.82,48.859 71.762,48.801 71.703,48.742 Z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4412"
+         d="M 85.764,34.683 C 76.586,25.548 63.941,19.894 50,19.894 c -13.941,0 -26.585,5.655 -35.764,14.789 -0.059,0.058 -0.118,0.117 -0.176,0.176 l 7.03,7.03 C 21.148,41.83 21.207,41.772 21.266,41.713 28.644,34.379 38.801,29.84 50,29.84 c 11.199,0 21.355,4.539 28.733,11.873 0.059,0.059 0.118,0.117 0.176,0.176 l 7.03,-7.03 C 85.881,34.8 85.822,34.741 85.764,34.683 Z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4414"
+         d="M 99.824,20.622 C 87.043,7.886 69.426,0 50,0 30.574,0 12.957,7.886 0.176,20.622 0.118,20.681 0.059,20.74 0,20.798 l 7.03,7.03 C 7.089,27.769 7.147,27.711 7.206,27.652 18.186,16.717 33.316,9.947 50,9.947 c 16.684,0 31.814,6.771 42.794,17.706 0.059,0.059 0.117,0.117 0.176,0.176 L 100,20.799 C 99.941,20.74 99.883,20.681 99.824,20.622 Z"
+         inkscape:connector-curvature="0" />
+      <circle
+         id="circle4416"
+         r="8"
+         cy="70.839996"
+         cx="50.058998" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="440.57324"
+       y="475.93372"
+       id="text4430"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4432"
+         x="440.57324"
+         y="475.93372">Besuche uns auf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="440.87323"
+       y="500.38019"
+       id="text4434"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4436"
+         x="440.87323"
+         y="500.38019">http://stormarn.freifunk.net</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="440.85324"
+       y="546.60303"
+       id="text4438"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4440"
+         x="440.85324"
+         y="546.60303">Nutze das Internet <tspan
+   style="font-weight:600;-inkscape-font-specification:'FreeSans Semi-Bold'"
+   id="tspan4452">und</tspan> weitere</tspan><tspan
+         sodipodi:role="line"
+         x="440.85324"
+         y="571.60303"
+         id="tspan4442">Dienste im Freifunk Netzwerk</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="342.62991"
+       y="74.803131"
+       id="text4444"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4446"
+         x="342.62991"
+         y="74.803131">freifunk.net</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="354.33072"
+       y="657.16534"
+       id="text4454"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4456"
+         x="354.33072"
+         y="657.16534">Was ist Freifunk?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.40001106px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="404.81036"
+       y="597.58496"
+       id="text4458"
+       sodipodi:linespacing="125%"
+       transform="scale(0.87535877,1.1423887)"><tspan
+         sodipodi:role="line"
+         id="tspan4460"
+         x="404.81036"
+         y="597.58496">Freifunk ist ein Funknetzwerk in </tspan><tspan
+         sodipodi:role="line"
+         x="404.81036"
+         y="621.42194"
+         id="tspan4462">Bürgerhand. Privatleute stellen freiwillig </tspan><tspan
+         sodipodi:role="line"
+         x="404.81036"
+         y="645.25891"
+         id="tspan4464">offene WLAN Accesspoints zur Verfügung, </tspan><tspan
+         sodipodi:role="line"
+         x="404.81036"
+         y="669.09595"
+         id="tspan4466">die jeder kostenlos nutzen kann. Diese </tspan><tspan
+         sodipodi:role="line"
+         x="404.81036"
+         y="692.93292"
+         id="tspan4470">Accesspoints sind untereinander </tspan><tspan
+         sodipodi:role="line"
+         x="404.81036"
+         y="716.7699"
+         id="tspan4500">verbunden und bilden so ein dezentrales </tspan><tspan
+         sodipodi:role="line"
+         x="404.81036"
+         y="740.60687"
+         id="tspan3460">(Maschen-) Netzwerk. In Stormarn hat man</tspan><tspan
+         sodipodi:role="line"
+         x="404.81036"
+         y="764.44391"
+         id="tspan4474">hierüber Zugriff auf das Internet und </tspan><tspan
+         sodipodi:role="line"
+         x="404.81036"
+         y="788.28088"
+         id="tspan4476">demnächst weitere verschiedene zusätzliche </tspan><tspan
+         sodipodi:role="line"
+         x="404.81036"
+         y="812.11786"
+         id="tspan4514">Dienste im Freifunk Netzwerk.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="15"
+       y="465.36218"
+       id="text4516"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4518"
+         x="15"
+         y="465.36218">Freies WLAN - Free WiFi</tspan></text>
+    <g
+       style="fill:#333333;fill-opacity:1;display:inline"
+       id="g4424-0"
+       transform="matrix(0.89886029,0,0,0.89886029,20.80315,16.01054)">
+      <path
+         id="path4410-0"
+         d="M 71.703,48.742 C 66.127,43.211 58.457,39.787 50,39.787 c -8.457,0 -16.127,3.424 -21.703,8.955 -0.059,0.059 -0.118,0.117 -0.176,0.176 l 7.032,7.033 c 0.058,-0.059 0.117,-0.119 0.176,-0.176 3.775,-3.732 8.957,-6.041 14.671,-6.041 5.715,0 10.896,2.309 14.672,6.041 0.059,0.057 0.117,0.117 0.176,0.176 l 7.031,-7.033 C 71.82,48.859 71.762,48.801 71.703,48.742 z"
+         inkscape:connector-curvature="0"
+         style="fill:#333333;fill-opacity:1" />
+      <path
+         id="path4412-0"
+         d="M 85.764,34.683 C 76.586,25.548 63.941,19.894 50,19.894 c -13.941,0 -26.585,5.655 -35.764,14.789 -0.059,0.058 -0.118,0.117 -0.176,0.176 l 7.03,7.03 C 21.148,41.83 21.207,41.772 21.266,41.713 28.644,34.379 38.801,29.84 50,29.84 c 11.199,0 21.355,4.539 28.733,11.873 0.059,0.059 0.118,0.117 0.176,0.176 l 7.03,-7.03 C 85.881,34.8 85.822,34.741 85.764,34.683 z"
+         inkscape:connector-curvature="0"
+         style="fill:#333333;fill-opacity:1" />
+      <path
+         id="path4414-9"
+         d="M 99.824,20.622 C 87.043,7.886 69.426,0 50,0 30.574,0 12.957,7.886 0.176,20.622 0.118,20.681 0.059,20.74 0,20.798 l 7.03,7.03 C 7.089,27.769 7.147,27.711 7.206,27.652 18.186,16.717 33.316,9.947 50,9.947 c 16.684,0 31.814,6.771 42.794,17.706 0.059,0.059 0.117,0.117 0.176,0.176 L 100,20.799 C 99.941,20.74 99.883,20.681 99.824,20.622 z"
+         inkscape:connector-curvature="0"
+         style="fill:#333333;fill-opacity:1" />
+      <circle
+         id="circle4416-9"
+         r="8"
+         cy="70.839996"
+         cx="50.058998"
+         sodipodi:cx="50.058998"
+         sodipodi:cy="70.839996"
+         sodipodi:rx="8"
+         sodipodi:ry="8"
+         style="fill:#333333;fill-opacity:1" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#7a7b7b;stroke-width:2.59394932;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect3335-3"
+       width="280.87061"
+       height="143.73676"
+       x="37.588264"
+       y="789.297"
+       rx="22.469652" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#dd0867;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="71.433075"
+       y="816.86615"
+       id="text4550"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4552"
+         x="71.433075"
+         y="816.86615">Treffe andere Freifunker:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="71"
+       y="845.36218"
+       id="text4572"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="71"
+         y="845.36218"
+         style="font-size:20px"
+         id="tspan3452">Derzeit nur im Internet,</tspan><tspan
+         sodipodi:role="line"
+         x="71"
+         y="870.36218"
+         style="font-size:20px"
+         id="tspan3456">wir planen noch regel-</tspan><tspan
+         sodipodi:role="line"
+         x="71"
+         y="895.36218"
+         style="font-size:20px"
+         id="tspan3458">mäßige Treffen</tspan></text>
+    <rect
+       style="fill:#dd0867;fill-opacity:1;stroke:none"
+       id="rect4582"
+       width="744.09448"
+       height="85.039368"
+       x="0"
+       y="967.49603" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:60px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="0.82598877"
+       y="1030.3622"
+       id="text4584"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4586"
+         x="0.82598877"
+         y="1030.3622">stormarn.freifunk.net</tspan></text>
+    <rect
+       style="fill:#ffcc07;fill-opacity:1;stroke:none;display:inline"
+       id="rect4582-9"
+       width="744.09448"
+       height="14.173228"
+       x="-0.33071899"
+       y="954.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="16"
+       y="532.36218"
+       id="text4606"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4608"
+         x="16"
+         y="532.36218"
+         style="font-size:40px">Wirklich &quot;Frei&quot;?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="17.433071"
+       y="573.46454"
+       id="text4610"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4612"
+         x="17.433071"
+         y="573.46454">Freifunk ist &quot;Frei&quot; wie die Freiheit. </tspan><tspan
+         sodipodi:role="line"
+         x="17.433071"
+         y="598.46454"
+         id="tspan4614">Die Nutzung kostet Dich nichts, </tspan><tspan
+         sodipodi:role="line"
+         x="17.433071"
+         y="623.46454"
+         id="tspan4626">hat keine zeitliche Limitierung </tspan><tspan
+         sodipodi:role="line"
+         x="17.433071"
+         y="648.46454"
+         id="tspan4616">und wir verlangen auch keine </tspan><tspan
+         sodipodi:role="line"
+         x="17.433071"
+         y="673.46454"
+         id="tspan4624">persönlichen Daten oder eine </tspan><tspan
+         sodipodi:role="line"
+         x="17.433071"
+         y="698.46454"
+         id="tspan4656">sonstige Registrierung von Dir.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="16.513386"
+       y="748.36218"
+       id="text4660"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="16.513386"
+         y="748.36218"
+         id="tspan4668"
+         style="font-weight:600;-inkscape-font-specification:FreeSans Semi-Bold">Mach mit und helfe uns, diese </tspan><tspan
+         sodipodi:role="line"
+         x="16.513386"
+         y="773.36218"
+         id="tspan4672"
+         style="font-weight:600;-inkscape-font-specification:FreeSans Semi-Bold">Freiheit auszubauen!</tspan></text>
+  </g>
+</svg>
